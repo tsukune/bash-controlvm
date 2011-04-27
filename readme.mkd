@@ -1,0 +1,23 @@
+# bash-controlvm
+
+Control virtual machines.
+
+```
+$ . controlvm.sh
+```
+
+## start 
+```
+$ startvm %VIRTUAL MACHINE%
+```
+
+## pause or resume
+```
+$ porvm %VIRTUAL MACHINE%
+```
+
+## pause all vms
+```
+$ pauseallvms %VIRTUAL MACHINE%
+```
+
